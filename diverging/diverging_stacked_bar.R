@@ -1,5 +1,7 @@
 # https://rpubs.com/tskam/likert
 # https://luisdva.github.io/rstats/diverging-barplots/
+# 原始数据，为了突出堆叠效果，增加了两行数据
+# https://raw.githubusercontent.com/luisDVA/codeluis/master/contributions.csv
 
 library(readr)
 library(dplyr)
